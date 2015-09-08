@@ -1,0 +1,35 @@
+h1{
+	color: blue;
+}
+
+.titre{
+	text-align: center;
+}
+
+main{
+padding: 20px;
+margin-right: auto;
+margin-left: auto;
+margin-top: 20px;
+width: 60%;
+background-color: white;
+border-radius: 20px;
+border-color:blue;
+
+}
+
+
+header{
+	width: 50%;
+	text-align: center;
+	border: 5px black dotted;
+	border-radius: 10px 30px;
+	padding: 10px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.li{
+	text-align:justify;
+	}
